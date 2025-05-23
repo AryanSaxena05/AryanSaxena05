@@ -1,9 +1,3 @@
-# About Me
-
-<p align="right">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="180" alt="Giflytics GIF" />
-</p>
-
 **Hi, I'm Aryan!**
 
 I am a <b>data-driven collaborator</b>, crafting innovative solutions to drive business impact. I'm currently a graduate student at <b>Purdue University</b>, pursuing an MS in Business Analytics and Information Management. My experience spans consulting, analytics, and data science, where I focus on leveraging data to solve real-world business challenges and deliver measurable results.
