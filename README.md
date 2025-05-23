@@ -10,6 +10,10 @@ I am a <b>data-driven collaborator</b>, crafting innovative solutions to drive b
 
 ---
 
+🌐 <b>Portfolio Website:</b> <a href="https://aryansaxenaportfolio.netlify.app/" target="_blank">aryansaxenaportfolio.netlify.app</a>
+
+---
+
 ### 🚀 Tech Stack
 
 <p>
