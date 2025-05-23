@@ -1,4 +1,4 @@
-**Hi, I'm Aryan!**
+# Hi, I'm Aryan!
 
 I am a <b>data-driven collaborator</b>, crafting innovative solutions to drive business impact. I'm currently a graduate student at <b>Purdue University</b>, pursuing an MS in Business Analytics and Information Management. My experience spans consulting, analytics, and data science, where I focus on leveraging data to solve real-world business challenges and deliver measurable results.
 
