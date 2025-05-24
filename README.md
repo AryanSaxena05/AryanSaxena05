@@ -32,6 +32,7 @@ I am a <b>data-driven collaborator</b>, crafting innovative solutions to drive b
 <p align="left">
   <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="180" alt="Pudgy Penguins GIF" />
   <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="220" alt="Gigabyte AI GIF" />
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="180" alt="Giflytics GIF" />
 </p>
 
 ---
